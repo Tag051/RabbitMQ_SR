@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021.10.11 19:10:40.147,D:\TAG\Coding\Delphi\RabbitMQ_SR\RabbitMQ_SR.groupproj=D:\TAG\Coding\Delphi\ProjectGroup1.groupproj</Transaction>
+  </Transactions>
+  <Default.Personality>
+    <Projects ActiveProject="D:\TAG\Coding\Delphi\RabbitMQ_SR\Producer.dproj"/>
+  </Default.Personality>
+</BorlandProject>

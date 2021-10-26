@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.567,D:\TAG\Coding\Delphi\Unit1.pas=D:\TAG\Coding\Delphi\RabbitMQ_SR\FrmProducer.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.922,D:\TAG\Coding\Delphi\Project1.dproj=D:\TAG\Coding\Delphi\RabbitMQ_SR\Producer.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.270,=D:\TAG\Coding\Delphi\RabbitMQ_SR\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.567,D:\TAG\Coding\Delphi\Unit1.dfm=D:\TAG\Coding\Delphi\RabbitMQ_SR\FrmProducer.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.143,=D:\TAG\Coding\Delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.096,=D:\TAG\Coding\Delphi\Unit1.pas</Transaction>
+    <Transaction>2021.10.11 18:53:28.688,=D:\TAG\Coding\Delphi\RabbitMQ_SR\Unit1.pas</Transaction>
+    <Transaction>2021.10.11 18:56:08.475,=D:\TAG\Coding\Delphi\RabbitMQ_SR\DBProducer.db</Transaction>
+    <Transaction>2021.10.11 18:57:56.165,D:\TAG\Coding\Delphi\RabbitMQ_SR\DBProducer.db=</Transaction>
+  </Transactions>
+</BorlandProject>

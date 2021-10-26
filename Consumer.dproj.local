@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.266,D:\TAG\Coding\Delphi\RabbitMQ_SR\UConsumer.dfm=D:\TAG\Coding\Delphi\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.266,D:\TAG\Coding\Delphi\RabbitMQ_SR\UConsumer.pas=D:\TAG\Coding\Delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.143,=D:\TAG\Coding\Delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.268,=D:\TAG\Coding\Delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.993,D:\TAG\Coding\Delphi\RabbitMQ_SR\Consumer.dproj=D:\TAG\Coding\Delphi\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
