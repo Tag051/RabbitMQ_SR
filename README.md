@@ -63,7 +63,8 @@ Add STOMP to your apps for lightweight real-time streaming (embarcadero.com)
 4.	SQLLite 
 SQLLite устанавливать не нужно, он поддерживается в Delphi
 Для просмотра БД можно использовать SQLite Database Browser http://sqlitebrowser.org/
-5.	Запуск приложения.
+
+# Запуск приложения.
 В каталоге  .\Win32\Debug\
 Запускаем приложение Producer.exe (издатель), нажимаем кнопку Enter.
 Приложение создает очередь.
@@ -74,3 +75,9 @@ SQLLite устанавливать не нужно, он поддерживае�
 Вся история сообщений сохраняется в базах данных DBProducer.db и DBConsumer.db
 После создания очереди, порядок запуска приложений неважен. 
 
+# Прочее
+Пришлось проверить другие варианты, которые не работают
+How and why I built rabbitmq client for delphi (delphi-developers-archive.blogspot.com)
+Https://github.com/lgadina/comotobo
+Https://github.com/lgadina/rabbitmq-library
+HeZiHang/Delphi-RabbitMQ: RabbitMQ driver for Delphi (github.com)
