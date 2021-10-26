@@ -63,9 +63,14 @@ Add STOMP to your apps for lightweight real-time streaming (embarcadero.com)
 4.	SQLLite 
 SQLLite устанавливать не нужно, он поддерживается в Delphi
 Для просмотра БД можно использовать SQLite Database Browser http://sqlitebrowser.org/
+<<<<<<< HEAD
 
 # Запуск приложения.
 В каталоге  .\Win32\Debug\
+=======
+5.	Запуск приложения.
+В каталог  .\Win32\Debug\ скопируйте файлы БД DBConsumer.db и DBProducer.db
+>>>>>>> s01
 Запускаем приложение Producer.exe (издатель), нажимаем кнопку Enter.
 Приложение создает очередь.
 
